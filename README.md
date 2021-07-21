@@ -1,2 +1,2 @@
 # MuZe
-MuZE is a a custom, interpreter-based language written in the Java language for fun.
+MuZe is a a custom, interpreter-based language written in the Java language for fun.
